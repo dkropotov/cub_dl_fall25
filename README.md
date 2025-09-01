@@ -8,7 +8,7 @@ This is an introductory course on neural network models and their application fo
 
 **Classes:** on Wednesdays in hybrid format in time slots 14:15 - 15:30 and 15:45 - 17:00. Room IRC-Seminar room III.
 
-**Zoom for classes:** link
+**Zoom for classes:** [link](https://constructor-university.zoom-x.de/j/66943889402?pwd=DdMbb6aIvM8UrinPJVr0CplkLGYgzx.1)
 
 **Videorecordings of lectures:** link
 
