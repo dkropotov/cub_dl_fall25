@@ -30,7 +30,7 @@ The exam will be online on CLMS platform. Exam test variant: [link](Materials/te
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 03.09.25  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  |     |
+| 03.09.25  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)    |
 
 ## Recommended reading
 1. Simon J.D. Prince. [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023. 
