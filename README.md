@@ -32,6 +32,7 @@ The exam will be online on CLMS platform. Exam test variant: [link](Materials/te
 | :---: | :---: | --- | --- |
 | 03.09.25  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)<br> [Video](https://youtu.be/rQCaRS2_lyk?si=B14quh3B0w1WRy9E)    |
 | 10.09.25  | 02  | DropOut regularization, Batch Normalization, Weights initialization, PyTorch library, Stochastic optimization for NNs  | [Whiteboard](Materials/DL02.pdf)<br> [Video](https://youtu.be/YuQBWe-czLo) |
+| 17.09.25  | 03  | Stochastic optimization for NNs, convolutional neural networks | [Whiteboard](Materials/DL03.pdf)<br> [Presentation](Materials/convnets.pptx)
 
 ## Recommended reading
 1. Simon J.D. Prince. [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023. 
