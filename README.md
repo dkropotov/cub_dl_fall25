@@ -35,6 +35,8 @@ The exam will be online on CLMS platform. Exam test variant: [link](Materials/te
 | 17.09.25  | 03  | Stochastic optimization for NNs, convolutional neural networks | [Whiteboard](Materials/DL03.pdf)<br> [Presentation](Materials/convnets.pptx)<br> [Video](https://youtu.be/uOoNKD-Oal4)
 | 24.09.25  | 04  | Semantic image segmentation, Object detection on images, Image style transfer | [Presentation](Materials/segmentation_detection_st.pptx)<br> [Video](https://youtu.be/qAUnM9_Afc8)
 | 01.10.25  | 05  | Recurrent neural networks, Attention mechanism | [Whiteboard](Materials/DL05.pdf)<br> [Presentation](Materials/rnns.pptx)<br> [Video](https://youtu.be/OdgX6RYywuw)
+| 08.10.25  | 06  | NNs for texts: tokenizers, teacher forcing, beam search, CTC loss, non-differentiable losses | [Whiteboard](Materials/DL06.pdf)
+
 
 ## Recommended reading
 1. Simon J.D. Prince. [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023. 
