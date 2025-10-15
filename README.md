@@ -36,6 +36,7 @@ The exam will be online on CLMS platform. Exam test variant: [link](Materials/te
 | 24.09.25  | 04  | Semantic image segmentation, Object detection on images, Image style transfer | [Presentation](Materials/segmentation_detection_st.pptx)<br> [Video](https://youtu.be/qAUnM9_Afc8)
 | 01.10.25  | 05  | Recurrent neural networks, Attention mechanism | [Whiteboard](Materials/DL05.pdf)<br> [Presentation](Materials/rnns.pptx)<br> [Video](https://youtu.be/OdgX6RYywuw)
 | 08.10.25  | 06  | NNs for texts: tokenizers, teacher forcing, beam search, CTC loss, non-differentiable losses | [Whiteboard](Materials/DL06.pdf)<br> [Video](https://youtu.be/cwcLSMZp0Dk)
+| 15.10.25  | 07  | Word embeddings, Transformers | [Whiteboard](Materials/DL07.pdf)<br> [Presentation](Materials/transformers.pptx)<br> [Video](https://youtu.be/-n4zIVCRVck)
 
 
 ## Recommended reading
