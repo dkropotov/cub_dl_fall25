@@ -38,6 +38,7 @@ The exam will be online on CLMS platform. Exam test variant: [link](Materials/te
 | 08.10.25  | 06  | NNs for texts: tokenizers, teacher forcing, beam search, CTC loss, non-differentiable losses | [Whiteboard](Materials/DL06.pdf)<br> [Video](https://youtu.be/cwcLSMZp0Dk)
 | 15.10.25  | 07  | Word embeddings, Transformers | [Whiteboard](Materials/DL07.pdf)<br> [Presentation](Materials/transformers.pptx)<br> [Video](https://youtu.be/-n4zIVCRVck)
 | 22.10.25  | 08  | Generative Adversarial Networks | [Whiteboard](Materials/DL08.pdf)<br> [Presentation](Materials/GANs.pptx)<br> [Video](https://youtu.be/Q85yM1Pt7CQ)
+| 29.10.25  | 09  | Normalizing Flows | [Whiteboard](Materials/DL09.pdf)<br> [Video](https://youtu.be/t1j9vtZBgv0)
 
 
 ## Recommended reading
