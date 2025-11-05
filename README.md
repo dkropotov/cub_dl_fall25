@@ -39,6 +39,7 @@ The exam will be online on CLMS platform. Exam test variant: [link](Materials/te
 | 15.10.25  | 07  | Word embeddings, Transformers | [Whiteboard](Materials/DL07.pdf)<br> [Presentation](Materials/transformers.pptx)<br> [Video](https://youtu.be/-n4zIVCRVck)
 | 22.10.25  | 08  | Generative Adversarial Networks | [Whiteboard](Materials/DL08.pdf)<br> [Presentation](Materials/GANs.pptx)<br> [Video](https://youtu.be/Q85yM1Pt7CQ)
 | 29.10.25  | 09  | Normalizing Flows | [Whiteboard](Materials/DL09.pdf)<br> [Video](https://youtu.be/t1j9vtZBgv0)
+| 05.11.25  | 10  | Audio Spectrograms | [Whiteboard](Materials/DL10.pdf)<br> [Video](https://youtu.be/_J-1lPbKzJ4)
 
 
 ## Recommended reading
