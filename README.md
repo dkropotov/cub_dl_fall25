@@ -41,7 +41,7 @@ The exam will be online on CLMS platform. Exam test variant: [link](Materials/te
 | 29.10.25  | 09  | Normalizing Flows | [Whiteboard](Materials/DL09.pdf)<br> [Video](https://youtu.be/t1j9vtZBgv0)
 | 05.11.25  | 10  | Audio Spectrograms | [Whiteboard](Materials/DL10.pdf)<br> [Video](https://youtu.be/_J-1lPbKzJ4)
 | 12.11.25  | 11  | NNs for audio: Automatic Speech Recognition (ASR) and Text-To-Speech (TTS) models | [Presentation](Materials/audio_models.pptx)<br> [Video](https://youtu.be/AtgPlYsCy08)
-
+| 19.11.25  | 12  | NNs for control: Introduction to Reinforcement Learning, Bellman equations, Value Iteration, DQN  | [Whiteboard](Materials/DL12.pdf)<br> [Video]()
 
 ## Recommended reading
 1. Simon J.D. Prince. [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023. 
