@@ -43,6 +43,7 @@ The exam will be online on CLMS platform. Exam test variant: [link](Materials/te
 | 12.11.25  | 11  | NNs for audio: Automatic Speech Recognition (ASR) and Text-To-Speech (TTS) models | [Presentation](Materials/audio_models.pptx)<br> [Video](https://youtu.be/AtgPlYsCy08)
 | 19.11.25  | 12  | NNs for control: Introduction to Reinforcement Learning, Bellman equations, Value Iteration, DQN  | [Whiteboard](Materials/DL12.pdf)<br> [Video](https://youtu.be/8Mn1BC_zWbQ)
 | 26.11.25  | 13  | Policy Gradient RL: Reinforce, A2C. RL from Human Feedback, DPO. | [Whiteboard](Materials/DL13.pdf)<br> [Video](https://youtu.be/6dizeU_9FEA)
+| 03.12.25  | 14  | Contrastive Learning, NN quantization  | [Whiteboard](Materials/DL14.pdf)<br> [Video]()
 
 ## Recommended reading
 1. Simon J.D. Prince. [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023. 
